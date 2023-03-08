@@ -20,7 +20,7 @@ stages {
 	steps {
 		dir ("/mnt/wsp") {
 
-		sh "touch file 1"
+		sh "touch file 2"
 }
 }
 }
